@@ -1,7 +1,8 @@
 This is my first Code in GitHub
 
-I Have Learned these Commands
+I Have Learnt these Commands
 1) Git init
 2) Git add
 3) Git commit
 4) Git Pull
+
