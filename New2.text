@@ -1,0 +1,24 @@
+This is Learning  git 
+Git  Commands
+
+1) git clone Url
+
+2) git add file name
+
+3) git commit -m 'first commit'
+
+4) git push 
+
+5) git pull 
+
+6) git status
+
+7) git log 
+
+8) git branch branch name
+
+9) git checkout branchname 
+
+10) git checkout -b branchname
+
+
