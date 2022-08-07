@@ -21,4 +21,6 @@ Git  Commands
 
 10) git checkout -b branchname
 
+11) git merge branchname
+
 
